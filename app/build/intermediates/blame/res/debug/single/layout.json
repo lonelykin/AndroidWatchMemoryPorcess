@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_list_item.xml",
+        "source": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\src\\main\\res\\layout\\file_list_item.xml"
+    },
+    {
+        "merged": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_list.xml",
+        "source": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\src\\main\\res\\layout\\file_list.xml"
+    },
+    {
+        "merged": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browse_process_item.xml",
+        "source": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\src\\main\\res\\layout\\browse_process_item.xml"
+    },
+    {
+        "merged": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browse_process_list.xml",
+        "source": "D:\\ASWorkPlace\\AM_MemoryProcess\\app\\src\\main\\res\\layout\\browse_process_list.xml"
+    }
+]
